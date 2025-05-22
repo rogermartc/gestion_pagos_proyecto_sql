@@ -208,7 +208,8 @@ Auditoría de cambios.
 ## Diagrama Entidad Relación
 
 
-![image](https://github.com/user-attachments/assets/c3fec1cc-9033-4918-b0ea-7cebec925034)
+![image](https://github.com/user-attachments/assets/d4af3fb9-0004-4202-b719-55594c1ee549)
+
 
 
 
