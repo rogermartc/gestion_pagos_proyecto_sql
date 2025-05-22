@@ -1,6 +1,7 @@
 # gestion_pagos_proyecto_sql
 La empresa LogiMarket S.A., dedicada al rubro electrónico, requiere un sistema de base de datos que administre la gestión de pagos para con sus proveedores.
 
+
 🏢 Contexto General: La empresa LogiMarket S.A., dedicada a la distribución de productos electrónicos, trabaja con decenas de proveedores nacionales e internacionales. Para mantener una operación fluida, requiere un sistema de base de datos que administre:
 
 Pagos individuales y masivos a proveedores.
