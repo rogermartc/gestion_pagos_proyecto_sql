@@ -119,6 +119,8 @@ ID_Factura (PK)
 
 ID_Orden (FK)
 
+ID_Proveedor
+
 Número_Factura
 
 Fecha_Emisión
