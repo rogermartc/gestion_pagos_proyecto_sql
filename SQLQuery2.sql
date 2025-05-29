@@ -1,5 +1,5 @@
 
-
+create database gestion_de_pagos_1
 
 use gestion_de_pagos_1
 go
