@@ -1,5 +1,6 @@
 
-
+create datebase gestion_de_pagos_1
+go
 
 use gestion_de_pagos_1
 go
@@ -92,7 +93,7 @@ Foreign key (id_facturas) references factura (id),
 
 
 
--- Inserción de Datos
+-- InserciÃ³n de Datos
 -- Proveedores
 
 use gestion_de_pagos_1
