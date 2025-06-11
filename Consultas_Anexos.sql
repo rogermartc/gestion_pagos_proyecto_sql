@@ -50,11 +50,14 @@ Group by pr.nombre;
 
 
 
---Obtener los proveedores con más de 3 devoluciones registradas.
+--Obtener los proveedores con más de 2 devoluciones registradas.
 Select
 pr.nombre, count (*) AS Total_devoluciones
 from devolucion d
 INNER JOIN factura f ON f.id = d.id_factura
 INNER JOIN proveedor pr ON pr.id = f.id_proveedor
 group by pr.nombre
+HAVING COUNT(*) >= 2;
+
+
 
